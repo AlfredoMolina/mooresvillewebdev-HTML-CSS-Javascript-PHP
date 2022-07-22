@@ -22,6 +22,6 @@ echo "Enter valid email!";
 echo "Sorry failed to send your message!";
 }
 }else{
-echo "Email and password is required!";
+echo "Fields are required!";
 }
 ?>
